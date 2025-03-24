@@ -1,6 +1,5 @@
 - 👋 Salut, moi c'est @elo41flo
 - 👀 je suis intéressé par la programmation parce que j'adore le concept de pouvoir faire tout ce qu'on veut avec.
-- 🌱 Actuellement j'apprend Java
 - 💞️ Je suis intéresser principalement par les projets de front-end
 - 📫 insta : elo_rbt_
 - 😄 il/lui
