@@ -1,3 +1,4 @@
-- 👋 Salut, moi c'est @elo41flo
-- 👀 je suis intéressé par la programmation parce que j'adore le concept de pouvoir faire tout ce qu'on veut avec.
-- 💞️ Je suis intéresser principalement par les projets de front-end
+-  Salut, moi c'est @elo41flo
+- J'ai 18 ans, et je vais commencer une formation de dev web et dev mobile après 2 ans de formation en auto didacte.
+-  Je suis intéressé par la programmation parce que j'adore le concept de pouvoir faire tout ce qu'on veut avec.
+-  Je suis intéresser principalement par les projets de front-end.
