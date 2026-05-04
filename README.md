@@ -34,12 +34,6 @@ Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du
 
 ---
 
-### Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elo41flo&show_icons=true&theme=radical)
-
----
-
 ###  Me contacter
 - **Localisation :** Blois, France 🇫🇷
 
