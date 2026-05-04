@@ -36,13 +36,11 @@ Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du
 
 ### Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
 
 ---
 
 ###  Me contacter
-
-- **LinkedIn :** [Ton Nom](Lien_Vers_Ton_LinkedIn)
 - **Localisation :** Blois, France 🇫🇷
 
 "Le code, c'est de l'art qui fonctionne."
