@@ -1,30 +1,48 @@
-# Salut, moi c'est Eloise Robert ! 
+# Salut ! Moi c'est Eloise
 
-Je suis une développeuse web et web mobile de 19 ans, passionnée par la création d'interfaces et le développement d'applications.
+###  Développeuse Web & Web Mobile en formation
 
-##  À propos de moi
-Actuellement en formation à **La Fabrique du Numérique du 41** (Blois), je suis en plein cœur d'un parcours de 18 mois alliant théorie et pratique en alternance. 
-
-Mon objectif est de monter en compétences pour devenir une développeuse complète, capable de concevoir des applications robustes et intuitives. À terme, j'envisage de poursuivre vers un titre de *Concepteur Développeur d'Application*.
-
-##  Stack Technique
-*(N'hésite pas à ajouter ou modifier selon tes technos actuelles)*
-
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=elo41flo&layout=compact&theme=tokyonight&hide=java,scss&count_private=true)
-- **Frameworks & Libs :** React, Node.js
-- **Outils :** Git, GitHub, VS Code, Figma, Xn Convert
-- **Méthodes :** Agile
-- 
-##  Ce sur quoi je travaille
-*  Apprentissage quotidien du développement web et web mobile.
-*  Exploration de l'architecture d'applications web.
-*  Veille technologique constante pour rester à jour sur les bonnes pratiques.
-
-##  Contact & Réseaux
-- **LinkedIn :** www.linkedin.com/in/eloise-robert-0b36902a6
-- **Email :** elo.robert@gmail.com
-- **Portfolio :** https://portfolio-er.erobert.dev-campus.fr
+Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du Numérique du 41** (Blois). Passionnée par la création d'applications web, j'aime transformer des idées complexes en interfaces simples et fonctionnelles.
 
 ---
 
-> "Le code est une langue, et j'aime apprendre à mieux l'écrire chaque jour."
+###  À propos de moi
+
+-  **Formation :** Titre Professionnel Développeur Web et Web Mobile (18 mois).
+-  **Expérience :** Actuellement en alternance (6 mois effectués sur 12).
+-  **Objectif :** Poursuivre vers un titre de Concepteur Développeur d'Application (CDA) ou lancer ma micro-entreprise.
+-  **En ce moment :** J'approfondis mes connaissances en PHP et en gestion de bases de données relationnelles.
+
+---
+
+### 🛠️ Mon Stack Technique
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+#### Backend & Bases de données
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Merise](https://img.shields.io/badge/Conception-Merise-blue?style=for-the-badge&logo=diagrams.net&logoColor=white)
+
+#### Outils & Méthodologie
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=radical)
+
+---
+
+###  Me contacter
+
+- **LinkedIn :** [Ton Nom](Lien_Vers_Ton_LinkedIn)
+- **Localisation :** Blois, France 🇫🇷
+
+"Le code, c'est de l'art qui fonctionne."
