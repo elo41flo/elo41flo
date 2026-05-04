@@ -1,4 +1,3 @@
-![Stats GitHub d'Elo](https://github-readme-stats.vercel.app/api?username=elo41flo&show_icons=true&theme=tokyonight&count_private=true)
 # Salut, moi c'est Eloise Robert ! 👋
 
 Je suis une développeuse web et web mobile de 19 ans, passionnée par la création d'interfaces et le développement d'applications.
