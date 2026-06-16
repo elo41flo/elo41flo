@@ -31,10 +31,3 @@ Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du
 #### Outils & Méthodologie
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-###  Me contacter
-- **Localisation :** Blois, France 🇫🇷
-
-"Le code, c'est de l'art qui fonctionne."
