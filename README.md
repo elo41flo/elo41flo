@@ -15,7 +15,7 @@ Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du
 
 ---
 
-### 🛠️ Mon Stack Technique
+### 🛠️ Ma Stack Technique
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
