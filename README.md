@@ -2,15 +2,14 @@
 
 ###  Développeuse Web & Web Mobile en formation
 
-Bienvenue sur mon profil ! Je suis actuellement en formation à **La Fabrique du Numérique du 41** (Blois). Passionnée par la création d'applications web, j'aime transformer des idées complexes en interfaces simples et fonctionnelles.
+Bienvenue sur mon profil ! Je suis actuellement en formation en **BTS SIO option SLAM** (CNED). Passionnée par la création d'applications web, j'aime transformer des idées complexes en interfaces simples et fonctionnelles.
 
 ---
 
 ###  À propos de moi
 
--  **Formation :** Titre Professionnel Développeur Web et Web Mobile (18 mois).
--  **Expérience :** Actuellement en alternance (6 mois effectués sur 12).
--  **Objectif :** Poursuivre vers un titre de Concepteur Développeur d'Application (CDA) ou lancer ma micro-entreprise.
+-  **Formation :** Titre Professionnel Développeur Web et Web Mobile (10 mois).
+-  **Objectif :** Poursuivre après mon BTS vers une L3 d'informatique
 -  **En ce moment :** J'approfondis mes connaissances en PHP et en gestion de bases de données relationnelles.
 
 ---
